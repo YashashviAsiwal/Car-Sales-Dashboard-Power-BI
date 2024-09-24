@@ -34,14 +34,14 @@ Current Inventory Levels: Monitor available stock for each car model and identif
 Aging Inventory: Highlight cars that have been in stock for a long time, which may require promotions or discounts to clear.
 Vehicle Availability: Visualize inventory status to support salespeople in identifying available models for upselling or cross-selling opportunities.
 Technology & Tools:
-Power BI Desktop: Used for data transformation, model creation, and visualization.
-DAX (Data Analysis Expressions): For calculated columns and measures like year-over-year growth, moving averages, and percentage changes.
-Power Query: To clean, transform, and connect to the car sales dataset.
-Data Sources: The dashboard supports integration with a variety of data sources, including Excel, SQL databases, or cloud-based services (Azure, AWS) for real-time data feeds.
+1. Power BI Desktop: Used for data transformation, model creation, and visualization.
+2. DAX (Data Analysis Expressions): For calculated columns and measures like year-over-year growth, moving averages, and percentage changes.
+3. Power Query: To clean, transform, and connect to the car sales dataset.
+4. Data Sources: The dashboard supports integration with a variety of data sources, including Excel, SQL databases, or cloud-based services (Azure, AWS) for real-time data feeds.
+   
 Use Cases:
 This Power BI dashboard is ideal for:
-
-Car Dealership Managers: To track sales performance, set realistic targets, and drive profitability.
-Sales Teams: To monitor individual and team performance, identify best-selling models, and improve customer relationships.
-Marketing Teams: To understand customer buying behavior, track promotional campaign success, and optimize future campaigns.
-Data Analysts: To provide detailed insights and reports on sales performance, regional differences, and sales forecasting.
+1. Car Dealership Managers: To track sales performance, set realistic targets, and drive profitability.
+2. Sales Teams: To monitor individual and team performance, identify best-selling models, and improve customer relationships.
+3. Marketing Teams: To understand customer buying behavior, track promotional campaign success, and optimize future campaigns.
+4. Data Analysts: To provide detailed insights and reports on sales performance, regional differences, and sales forecasting.
